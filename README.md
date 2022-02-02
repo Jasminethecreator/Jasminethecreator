@@ -12,7 +12,7 @@
 
     ✨ I have an identical twin sister.   
     
-    ✨ I am skincare product junkie 
+    ✨ I am skincare product junkie.
 
 
 <br>
@@ -25,6 +25,6 @@
 ## Connect with me:
 
 [Website](https://www.jasminebienaime.com) <br>
-[Linkein](https://www.linkedin.com/in/jasmine-bien-aime)
+[Linkedin](https://www.linkedin.com/in/jasmine-bien-aime)
 
 
