@@ -3,7 +3,7 @@
 # Hi there, I'm Jasmine Bien-Aime 👋🏽
 
     👩🏾‍💻 I’m currently a Hack.Diverity Software Engineering Fellow.
-
+    🔭 I’m currently working on building and deploying a MERN app.
     🌱 I’m currently studying ReactJS.
 
 <br>
