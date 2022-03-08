@@ -24,7 +24,7 @@
 
 ## Connect with me:
 
-[Website](https://www.jasminebienaime.com) <br>
+<!-- [Website](https://www.jasminebienaime.com) <br> -->
 [Linkedin](https://www.linkedin.com/in/jasmine-bien-aime)
 
 
