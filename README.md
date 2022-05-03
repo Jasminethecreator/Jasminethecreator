@@ -3,7 +3,7 @@
 # Hi there, I'm Jasmine Bien-Aime 👋🏽
 
     👩🏾‍💻 I’m currently a Hack.Diverity Software Engineering Fellow.
-
+       I'm interested in UI development.
 <br>
 
 ## Fun facts:
