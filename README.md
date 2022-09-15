@@ -2,9 +2,9 @@
 
 # Hi there, I'm Jasmine Bien-Aime 👋🏽
 
-    👩🏾‍💻 I’m currently a Hack.Diverity Software Engineering Fellow.
+    👩🏾‍💻 designer + developer 
     
-    🌱 I'm interested in Front-End, UI and mobile development.
+    🌱 I'm interested in Front-End, UI, mobile development & design systems.
 <br>
 
 ## Fun facts:
