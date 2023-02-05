@@ -2,9 +2,9 @@
 
 # Hi there, I'm Jasmine Bien-Aime 👋🏽
 
-    👩🏾‍💻 designer + developer 
+    project manager  + developer  + creative technologist 
     
-    🌱 I'm interested in Front-End, UI, mobile development & design systems.
+    
 <br>
 
 ## Fun facts:
