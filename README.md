@@ -2,7 +2,7 @@
 
 # Hi there, I'm Jasmine Bien-Aime 👋🏽
 
-    project manager  + developer  + creative technologist 
+    creative technologist 
     
     
 <br>
