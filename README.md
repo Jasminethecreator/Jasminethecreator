@@ -6,11 +6,11 @@ I recently completed the IT Support Program at Per Scholas, where I diagnosed ha
 
 ![CompTIA A+](https://img.shields.io/badge/CompTIA_A%2B-EE0000?style=flat&logo=comptia&logoColor=white)
 ![Google Project Management](https://img.shields.io/badge/Google_Project_Management-4285F4?style=flat&logo=google&logoColor=white)
+![Google AI Essentials](https://img.shields.io/badge/Google_AI_Essentials-4285F4?style=flat&logo=google&logoColor=white)
 
 - Cisco Computer Hardware Basics
 - Cisco Operating Systems Basics
-- IT Service Management (ITSM) Fundamentals
-
+- Service Now IT Service Management (ITSM) Fundamentals
 <br>
 
 ## 👩‍💻 IT Projects
