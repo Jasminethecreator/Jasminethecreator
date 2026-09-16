@@ -27,12 +27,6 @@ I recently completed the IT Support Program at Per Scholas, where I diagnosed ha
 
 <br>
 
-## 🛠️ Technical Support
-
-Tier 1 Support · Account Access · Login Troubleshooting · Password Resets · Incident Triage · Escalation · Ticket Documentation
-
-<br>
-
 ## 💻 Systems & Tools
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
