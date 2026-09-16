@@ -1,6 +1,6 @@
 # Hi there, I'm Jasmine Bien-Aime 
 
-I recently completed the IT Support Program at Per Scholas, where I diagnosed hardware, software, and operating system issues through practical lab simulations and support scenarios, and earned my CompTIA A+ certification. I also hold a Google Project Management certificate. I'm proactive, detail-oriented, and enthusiastic about learning new technologies — through hands-on projects, I've built skills in Microsoft Entra ID (Azure AD) and Active Directory administration, along with strong problem-solving and customer communication abilities.<br>
+I recently completed the IT Support Program at Per Scholas, where I diagnosed hardware, software, and operating system issues through practical lab simulations and support scenarios, and earned my CompTIA A+ certification. I also hold a Google Project Management certificate. I'm proactive, detail-oriented, and enthusiastic about learning new technologies through hands-on projects, I've built skills in Microsoft Entra ID (Azure AD) and Active Directory administration, along with strong problem-solving and customer communication abilities.<br>
 
 
 ## 👩‍💻 IT Projects
@@ -15,6 +15,23 @@ I recently completed the IT Support Program at Per Scholas, where I diagnosed ha
 * [Sign-In Logs](https://github.com/Jasminethecreator/sign-in-logs)
 * [Authentication](https://github.com/Jasminethecreator/authentication)
 
+**Deployment, Networking, Troubleshooting**
+* [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/Jasminethecreator/creating-rg-deploying-vm-rdp)
+* [Creating and Managing Local Users](https://github.com/Jasminethecreator/creating-managing-local-users)
+* [Troubleshooting Network Connectivity](https://github.com/Jasminethecreator/troubleshooting-network-connectivity)
+* [Managing Windows Updates](https://github.com/Jasminethecreator/managing-windows-updates)
+* [Software Installation](https://github.com/Jasminethecreator/software-installation)
+* [Print Queue](https://github.com/Jasminethecreator/print-queue)
+* [Credential Manager and Cache](https://github.com/Jasminethecreator/credential-manager-and-cache)
+* [PowerShell](https://github.com/Jasminethecreator/powershell)
+
+**Ticketing System**
+* [SpiceWorks Ticketing System](https://github.com/Jasminethecreator/spiceworks-ticketing-system)
+
+**CompTIA CertMaster Labs**
+* [Hardware Installation & Troubleshooting - Issue Trax](https://github.com/Jasminethecreator/hardware-troubleshooting-issue-trax)
+* [Mobile Device Support](https://github.com/Jasminethecreator/mobile-device-support)
+* [Printer Installation & Network Sharing](https://github.com/Jasminethecreator/printer-installation-network-sharing)
 <br>
 
 ## 🎓 Certifications
