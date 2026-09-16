@@ -6,14 +6,14 @@ I recently completed the IT Support Program at Per Scholas, where I diagnosed ha
 ## 👩‍💻 IT Projects
 
 **Microsoft Entra ID (Azure AD)**
-* [User Creation](https://github.com/Jasminethecreator/user-creation-repository)
-* [Cloud Provisioning - Licensing](https://github.com/Jasminethecreator/cloud-provisioning-licensing-repository)
-* [Role Assignments](https://github.com/Jasminethecreator/role-assignment-repository)
-* [Group Assignments](https://github.com/Jasminethecreator/group-assignments-repository)
-* [Identity Lifecycle](https://github.com/Jasminethecreator/identity-lifecycle-repository)
-* [Audit Logs](https://github.com/Jasminethecreator/audit-logs-repository)
-* [Sign-In Logs](https://github.com/Jasminethecreator/sign-in-logs-repository)
-* [Authentication](https://github.com/Jasminethecreator/authentication-repository)
+* [User Creation](https://github.com/Jasminethecreator/user-creation)
+* [Cloud Provisioning - Licensing](https://github.com/Jasminethecreator/cloud-provisioning-licensing)
+* [Role Assignments](https://github.com/Jasminethecreator/role-assignment)
+* [Group Assignments](https://github.com/Jasminethecreator/group-assignments)
+* [Identity Lifecycle](https://github.com/Jasminethecreator/identity-lifecycle)
+* [Audit Logs](https://github.com/Jasminethecreator/audit-logs)
+* [Sign-In Logs](https://github.com/Jasminethecreator/sign-in-logs)
+* [Authentication](https://github.com/Jasminethecreator/authentication)
 
 <br>
 
