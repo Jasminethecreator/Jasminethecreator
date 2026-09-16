@@ -2,16 +2,6 @@
 
 I recently completed the IT Support Program at Per Scholas, where I diagnosed hardware, software, and operating system issues through practical lab simulations and support scenarios, and earned my CompTIA A+ certification. I also hold a Google Project Management certificate. I'm proactive, detail-oriented, and enthusiastic about learning new technologies — through hands-on projects, I've built skills in Microsoft Entra ID (Azure AD) and Active Directory administration, along with strong problem-solving and customer communication abilities.<br>
 
-## 🎓 Certifications
-
-![CompTIA A+](https://img.shields.io/badge/CompTIA_A%2B-EE0000?style=flat&logo=comptia&logoColor=white)
-![Google Project Management](https://img.shields.io/badge/Google_Project_Management-4285F4?style=flat&logo=google&logoColor=white)
-![Google AI Essentials](https://img.shields.io/badge/Google_AI_Essentials-4285F4?style=flat&logo=google&logoColor=white)
-
-- Cisco Computer Hardware Basics
-- Cisco Operating Systems Basics
-- Service Now IT Service Management (ITSM) Fundamentals
-<br>
 
 ## 👩‍💻 IT Projects
 
@@ -25,6 +15,17 @@ I recently completed the IT Support Program at Per Scholas, where I diagnosed ha
 * [Sign-In Logs](https://github.com/Jasminethecreator/sign-in-logs-repository)
 * [Authentication](https://github.com/Jasminethecreator/authentication-repository)
 
+<br>
+
+## 🎓 Certifications
+
+![CompTIA A+](https://img.shields.io/badge/CompTIA_A%2B-EE0000?style=flat&logo=comptia&logoColor=white)
+![Google Project Management](https://img.shields.io/badge/Google_Project_Management-4285F4?style=flat&logo=google&logoColor=white)
+![Google AI Essentials](https://img.shields.io/badge/Google_AI_Essentials-4285F4?style=flat&logo=google&logoColor=white)
+
+- Cisco Computer Hardware Basics
+- Cisco Operating Systems Basics
+- Service Now IT Service Management (ITSM) Fundamentals
 <br>
 
 ## 💻 Systems & Tools
