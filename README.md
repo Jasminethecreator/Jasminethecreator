@@ -25,9 +25,6 @@ I recently completed the IT Support Program at Per Scholas, where I diagnosed ha
 * [Credential Manager and Cache](https://github.com/Jasminethecreator/credential-manager-and-cache)
 * [PowerShell](https://github.com/Jasminethecreator/powershell)
 
-**Ticketing System**
-* [SpiceWorks Ticketing System](https://github.com/Jasminethecreator/spiceworks-ticketing-system)
-
 **CompTIA CertMaster Labs**
 * [Hardware Installation & Troubleshooting - Issue Trax](https://github.com/Jasminethecreator/hardware-troubleshooting-issue-trax)
 * [Mobile Device Support](https://github.com/Jasminethecreator/mobile-device-support)
