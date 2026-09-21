@@ -1,4 +1,4 @@
-# Hi there, I'm Jasmine Bien-Aime 👋
+# Hi there, I'm Jasmine Bien-Aime 
 
 I recently completed the IT Support Program at Per Scholas, where I gained hands-on experience troubleshooting hardware, software, Windows, networking, and end-user issues through practical labs and support scenarios.
 
