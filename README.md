@@ -4,7 +4,7 @@ I recently completed the IT Support Program at Per Scholas, where I gained hands
 
 I'm CompTIA A+ certified and have built hands-on skills in Microsoft Entra ID, Microsoft Azure, Windows administration, identity management, and technical troubleshooting.
 
-## 👩‍💻 IT Support Projects
+##   IT Support Projects
 
 | Project Area                                                                                                       | Purpose                                                                                                                                             | Technologies                  |
 | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
