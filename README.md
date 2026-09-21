@@ -1,62 +1,76 @@
-Hi, I’m Jasmine Bien-Aime 
+# Hi there, I'm Jasmine Bien-Aime 👋
 
-I’m an IT Support professional with CompTIA A+ certification and hands-on experience troubleshooting hardware, software, Windows, networking, and end-user issues.
+I recently completed the IT Support Program at Per Scholas, where I gained hands-on experience troubleshooting hardware, software, Windows, networking, and end-user issues through practical labs and support scenarios.
 
-I completed the IT Support program at Per Scholas, where I practiced technical support through hands-on labs involving Windows administration, Microsoft Entra ID, Azure virtual machines, identity and access management, hardware troubleshooting, networking, and mobile device support.
+I'm CompTIA A+ certified and have built hands-on skills in Microsoft Entra ID, Microsoft Azure, Windows administration, identity management, and technical troubleshooting.
 
-My background also includes customer-facing technical support, technical project coordination, and software development, giving me experience communicating with users, documenting issues, troubleshooting problems, and working across technical teams.
- 
- IT Support Projects
+## 👩‍💻 IT Support Projects
 
-🪟 Windows, Azure & Troubleshooting
+| Project Area                                                                                                       | Purpose                                                                                                                                             | Technologies                  |
+| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| **[Identity & Access Management](https://github.com/Jasminethecreator/identity-lifecycle)**                        | Practiced user provisioning, licensing, role and group assignments, authentication methods, identity lifecycle management, and activity-log review. | Entra ID · IAM · MFA          |
+| **[Hardware Support & Troubleshooting](https://github.com/Jasminethecreator/hardware-troubleshooting-issue-trax)** | Diagnosed and resolved power, memory, and display issues through simulated help-desk tickets.                                                       | Hardware · CompTIA CertMaster |
+| **[Azure VM & Remote Access](https://github.com/Jasminethecreator/creating-rg-deploying-vm-rdp)**                  | Deployed a Windows virtual machine in Azure and established remote access through RDP.                                                              | Azure · Windows · RDP         |
+| **[Windows Support & Troubleshooting](https://github.com/Jasminethecreator/troubleshooting-network-connectivity)** | Practiced Windows troubleshooting involving connectivity, credentials, updates, software, printers, and user administration.                        | Windows 11 · PowerShell · CLI |
+| **[Mobile Device Support](https://github.com/Jasminethecreator/mobile-device-support)**                            | Configured mobile connectivity, security, power, and wireless-device settings through support scenarios.                                            | Mobile · Wi-Fi · Security     |
 
-* Azure VM Deployment & Remote Access — Deployed a Windows virtual machine in Microsoft Azure and connected through Remote Desktop.
-* Network Connectivity Troubleshooting — Used Windows command-line tools to test connectivity and troubleshoot an incorrect ping destination.
-* Credential Manager & Cache Management — Practiced credential and browser-cache troubleshooting for authentication issues.
-* PowerShell System Administration — Used PowerShell and Windows command-line utilities to inspect services, processes, and system information.
-* Local User Management — Created and managed a local Windows user account.
-* Windows Update Management — Checked and verified Windows Update status.
-* Software Installation & Removal — Practiced application installation, verification, and software-removal workflows.
-* Printer Management — Accessed a Windows printer and reviewed its print queue.
+> **Focus:** End-user troubleshooting, Windows support, identity administration, hardware support, and cloud fundamentals.
 
-🔐 Microsoft Entra ID & Identity Administration
+---
 
-* Identity Lifecycle Management — Practiced Joiner, Mover, and Leaver workflows including group changes, attribute updates, access review, and user offboarding.
-* User Creation — Created and configured a user account in Microsoft Entra ID.
-* User Licensing — Assigned and verified a Microsoft Entra ID P2 license.
-* Security Group Management — Created a security group, assigned members, and verified group membership.
-* Directory Role Assignment — Practiced assigning administrative directory roles to a user.
-* Authentication Methods — Configured and verified a phone authentication method for a user account.
-* Audit Log Review — Reviewed administrative activity recorded for a user account.
-* Sign-In Log Review — Reviewed authentication activity for identity troubleshooting and monitoring.
+## 🧪 Additional Hands-On Labs
 
-🛠️ Hardware & Device Support
+### Microsoft Entra ID
 
-* Hardware Support & Troubleshooting — Diagnosed simulated power, memory, and display issues through help-desk ticket scenarios.
-* Mobile Device Support & Security — Configured mobile connectivity, security, power, and wireless-device settings in CompTIA CertMaster Labs.
+[User Creation](https://github.com/Jasminethecreator/user-creation) ·
+[Licensing](https://github.com/Jasminethecreator/cloud-provisioning-licensing) ·
+[Role Assignments](https://github.com/Jasminethecreator/role-assignment) ·
+[Group Assignments](https://github.com/Jasminethecreator/group-assignments) ·
+[Identity Lifecycle](https://github.com/Jasminethecreator/identity-lifecycle) ·
+[Authentication](https://github.com/Jasminethecreator/authentication) ·
+[Audit Logs](https://github.com/Jasminethecreator/audit-logs) ·
+[Sign-In Logs](https://github.com/Jasminethecreator/sign-in-logs)
 
-🎓 Certifications & Training
+### Windows & Technical Support
 
-* ServiceNow ITSM Fundamentals
-* Cisco Computer Hardware Basics
-* Cisco Operating Systems Basics
-* Per Scholas IT Support Training
+[Local Users](https://github.com/Jasminethecreator/creating-managing-local-users) ·
+[Network Connectivity](https://github.com/Jasminethecreator/troubleshooting-network-connectivity) ·
+[Windows Updates](https://github.com/Jasminethecreator/managing-windows-updates) ·
+[Software Installation](https://github.com/Jasminethecreator/software-installation) ·
+[Printer Management](https://github.com/Jasminethecreator/print-queue) ·
+[Credential Manager & Cache](https://github.com/Jasminethecreator/credential-manager-and-cache) ·
+[PowerShell](https://github.com/Jasminethecreator/powershell)
 
-💻 Systems & Tools
+---
 
-IT Support & ITSM: ServiceNow · Salesforce · Jira
-Identity & Cloud: Microsoft Entra ID · Microsoft Azure · Microsoft 365
-Collaboration: Google Workspace · Confluence
-Command Line: PowerShell · Windows Command Prompt
+## 🎓 Certifications
 
-🖥️ Operating Systems
+![CompTIA A+](https://img.shields.io/badge/CompTIA_A%2B-EE0000?style=flat\&logo=comptia\&logoColor=white)
+![Google Project Management](https://img.shields.io/badge/Google_Project_Management-4285F4?style=flat\&logo=google\&logoColor=white)
+![Google AI Essentials](https://img.shields.io/badge/Google_AI_Essentials-4285F4?style=flat\&logo=google\&logoColor=white)
 
-Windows · macOS · Linux
+Cisco Computer Hardware Basics · Cisco Operating Systems Basics · ServiceNow ITSM Fundamentals
 
-🔧 Technical Skills
+---
 
-Hardware Troubleshooting · Software Support · Windows Administration · User Account Management · Identity & Access Management · Authentication Support · Networking Fundamentals · Printer Support · Mobile Device Support · Remote Support · Technical Documentation
+## 💻 Systems & Tools
 
-🔗 Connect With Me
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat\&logo=salesforce\&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00C487?style=flat\&logo=servicenow\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat\&logo=jira\&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat\&logo=confluence\&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat\&logo=microsoft365\&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat\&logo=googleworkspace\&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat\&logo=microsoftazure\&logoColor=white)
 
-LinkedIn
+### Operating Systems
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat\&logo=windows\&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat\&logo=apple\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
+
+---
+
+## 🔗 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/jasmine-bien-aime)
