@@ -28,7 +28,6 @@ I recently completed the IT Support Program at Per Scholas, where I diagnosed ha
 **CompTIA CertMaster Labs**
 * [Hardware Installation & Troubleshooting - Issue Trax](https://github.com/Jasminethecreator/hardware-troubleshooting-issue-trax)
 * [Mobile Device Support](https://github.com/Jasminethecreator/mobile-device-support)
-* [Printer Installation & Network Sharing](https://github.com/Jasminethecreator/printer-installation-network-sharing)
 <br>
 
 ## 🎓 Certifications
